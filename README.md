@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Jalen, an <a href="https://www.linkedin.com/in/jalen-johnson-315b0b367/?skipRedirect=true">IT Professional</a>!</h1>
 
-<!--
-**jalenjohnson159/Jalenjohnson159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/jalenjohnson159/os_ticket.installation-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Jalen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jalen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/jalenjohnson159
+[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/jalen-johnson-315b0b367/?skipRedirect=true
